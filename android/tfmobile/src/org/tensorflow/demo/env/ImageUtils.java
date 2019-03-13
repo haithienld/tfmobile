@@ -20,9 +20,7 @@ import android.graphics.Canvas;
 import android.graphics.Matrix;
 import android.media.Image;
 import android.os.Environment;
-
 import junit.framework.Assert;
-
 import java.io.File;
 import java.io.FileOutputStream;
 import java.nio.ByteBuffer;
